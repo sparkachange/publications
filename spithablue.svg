@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="703.77783"
+   height="434.95862"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="spitha.svg"
+   inkscape:export-filename="C:\Users\A\Desktop\SparkAChange\flame2.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2920354"
+     inkscape:cx="326.85516"
+     inkscape:cy="217.5854"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.571404,-477.73413)"
+     style="display:inline">
+    <rect
+       style="fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2989"
+       width="703.77783"
+       height="434.95862"
+       x="18.571404"
+       y="477.73413"
+       inkscape:export-filename="C:\Users\A\Desktop\SparkAChange\flame3.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="logo"
+     style="display:inline">
+    <g
+       id="g3847"
+       transform="matrix(1.007582,0,0,1.007582,78.527946,-424.18609)"
+       inkscape:export-xdpi="720"
+       inkscape:export-ydpi="720">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3834"
+         d="m 257.6521,657.55525 2.45638,11.46649 c 2.2093,21.01337 3.68498,35.25053 4.80412,55.05236 l 10.61941,0 c 0.98813,-18.41478 2.53148,-35.2154 5.12147,-54.92314 l 1.86998,-11.6268 z"
+         style="fill:#0f5546;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="csscc"
+         inkscape:connector-curvature="0"
+         id="path3845"
+         d="m 234.27111,172.7981 c -4.61007,2.66162 -4.25538,9.05203 3.15992,9.05203 7.41531,0 16.36434,-0.022 24.10776,-0.022 7.31872,0 7.07911,-7.11192 3.28896,-9.30016 -7.21843,0.0656 -24.76528,0.27017 -30.55664,0.27017 z"
+         style="fill:#1a9076;fill-opacity:1;stroke:none"
+         transform="translate(20.571404,477.73413)" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3775"
+         d="m 270.60203,557.54744 c 0,0 -0.69043,23.45806 -20.73706,42.20621 -0.30496,-12.45429 -3.35453,-15.22191 -3.35453,-15.22191 -8.88293,22.97244 -20.98919,44.11057 11.24125,68.49861 12.82702,0 12.82657,0.008 23.9099,0.008 4.71553,-1.90273 43.68634,-33.99808 11.81221,-78.88477 0.58065,10.13069 -4.57678,18.85167 -4.57678,18.85167 0,0 -8.23141,-17.81382 -18.29499,-35.4574 z"
+         style="fill:#1a90aa;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path3775-1"
+       d="m 351.41503,169.31464 c 0,0 -0.46613,15.83738 -14.00033,28.49493 -0.2059,-8.40833 -2.26477,-10.27686 -2.26477,-10.27686 -5.99719,15.50953 -14.17056,29.78064 7.58937,46.24589 8.65999,0 8.65968,0.005 16.14244,0.005 3.18362,-1.28461 29.49423,-22.95333 7.97485,-53.25796 0.39202,6.8396 -3.08995,12.72745 -3.08995,12.72745 0,0 -5.55732,-12.02676 -12.35161,-23.93857 z"
+       style="opacity:0.37019234;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+  </g>
+</svg>
